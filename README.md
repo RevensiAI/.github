@@ -1,2 +1,3 @@
-# .github
-Revensi organization profile and community health files.
+# Revensi GitHub profile
+
+Organization profile and community health files for [Revensi](https://revensi.com).
